@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
 
 
 export default class UserRepos extends Component {
@@ -56,9 +55,3 @@ export default class UserRepos extends Component {
 
 
 }
-/*
-
-UserRepos.propTypes = {
-    user: PropTypes.object,
-    repos: PropTypes.array,
-};*/
